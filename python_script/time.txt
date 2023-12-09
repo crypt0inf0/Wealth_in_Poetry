@@ -1,0 +1,6 @@
+it takes 3 to 4 minutes to complete 1%
+
+4 * 100% = 400 minutes ~ 7 hours
+
+pip install mnemonic
+pip install bip32utils

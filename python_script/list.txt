@@ -1,0 +1,31 @@
+word_list_1 = [
+    "abandon", "able", "account", "across", "admit", "adult", "aerobic", "also",
+    "amount", "apart", "arrive", "asset", "attack", "average", "avoid", "away",
+    "beauty", "best", "bleak", "board", "boat", "bomb", "bring", "capital", "case",
+    "cause", "century", "client", "close", "cousin", "credit", "creek", "cupboard",
+    "day", "decade", "demand", "design", "despair", "destroy", "detect", "develop",
+    "digital", "dust", "early", "easily", "effort", "element", "enable", "engage",
+    "enough", "enter", "escape", "evidence", "example", "eye", "faint", "feed",
+    "fine", "fit", "flee", "frequent", "fringe", "front", "fun", "future", "game",
+    "gate", "ginger", "good", "hand", "hard", "heavy", "help", "history", "honey",
+    "hope", "ice", "identify", "include", "key", "know", "left", "level", "limit",
+    "loan", "logic", "lonely", "magic", "main", "major", "matter", "medal", "mystery",
+    "nature", "neutral", "never", "notable", "old", "one", "other", "page", "palace",
+    "payment", "picnic", "picture", "piece", "place", "point", "practice", "prepare",
+    "present", "provide", "public", "purchase", "rather", "reason", "remove",
+    "resemble", "result", "river", "road", "room", "scale", "search", "secret",
+    "security", "sell", "shift", "shoulder", "sign", "silver", "six", "slight",
+    "someone", "song", "speed", "spy", "start", "stock", "such", "surface", "suspect",
+    "table", "ten", "then", "there", "three", "together", "tool", "trap", "trial",
+    "true", "truly", "twice", "two", "unaware", "until", "upper", "use", "very",
+    "volume", "want", "waste", "work", "world", "zone"
+]
+
+word_list_2 = [
+    "about", "ancient", "around", "assume", "border", "build", "camera", "cash",
+    "control", "cost", "door", "easy", "family", "few", "find", "found", "high",
+    "journey", "language", "large", "life", "like", "local", "need", "notice",
+    "off", "once", "only", "open", "order", "pair", "phone", "physical", "poem",
+    "possible", "process", "put", "safe", "short", "sight", "since", "still",
+    "today", "travel", "walk", "what", "will", "word"
+]
